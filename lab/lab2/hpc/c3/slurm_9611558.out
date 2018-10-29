@@ -1,0 +1,19 @@
+Epoch [1/5], Step [100/120], Loss: 0.2618, Precision@1: 0.9200, Precision@3: 0.6173
+
+Done!
+Epoch [2/5], Step [100/120], Loss: 0.2578, Precision@1: 0.9320, Precision@3: 0.6440
+
+Done!
+Epoch [3/5], Step [100/120], Loss: 0.2261, Precision@1: 0.9680, Precision@3: 0.6493
+
+Done!
+Epoch [4/5], Step [100/120], Loss: 0.2741, Precision@1: 0.9120, Precision@3: 0.6120
+
+Done!
+Epoch [5/5], Step [100/120], Loss: 0.2695, Precision@1: 0.9120, Precision@3: 0.6533
+
+Done!
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: This may or may not result in some failure. The SLURM utilizes Linux cgroups for resource containment. For reference please read the explanation in the bug report: https://bugs.schedmd.com/show_bug.cgi?id=3214#c4
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: This may or may not result in some failure. The SLURM utilizes Linux cgroups for resource containment. For reference please read the explanation in the bug report: https://bugs.schedmd.com/show_bug.cgi?id=3214#c4

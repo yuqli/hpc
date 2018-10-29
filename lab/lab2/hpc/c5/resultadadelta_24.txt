@@ -1,0 +1,33 @@
+Optimizer Adadelta (
+Parameter Group 0
+    eps: 1e-06
+    lr: 0.01
+    rho: 0.9
+    weight_decay: 0
+)
+Number of workers 24
+This is epoch0
+Epoch [1/5], Step [100/200], Loss: 0.6441, Precision@1: 0.7933, Precision@3: 0.5067Epoch [1/5], Step [200/200], Loss: 0.3334, Precision@1: 0.8733, Precision@3: 0.6044
+Done!Waiting time : 80.18649510433897 secs
+Compute time : 9.547229308169335 secs
+Epoch time : 89.91557854693383 secs
+This is epoch1
+Epoch [2/5], Step [100/200], Loss: 0.2955, Precision@1: 0.9267, Precision@3: 0.6156Epoch [2/5], Step [200/200], Loss: 0.2817, Precision@1: 0.9067, Precision@3: 0.6244
+Done!Waiting time : 84.80679273465648 secs
+Compute time : 8.942116102669388 secs
+Epoch time : 93.86820215685293 secs
+This is epoch2
+Epoch [3/5], Step [100/200], Loss: 0.2866, Precision@1: 0.9067, Precision@3: 0.6244Epoch [3/5], Step [200/200], Loss: 0.2802, Precision@1: 0.9333, Precision@3: 0.6067
+Done!Waiting time : 82.39451545244083 secs
+Compute time : 9.06397104728967 secs
+Epoch time : 91.47113999724388 secs
+This is epoch3
+Epoch [4/5], Step [100/200], Loss: 0.2773, Precision@1: 0.9333, Precision@3: 0.6733Epoch [4/5], Step [200/200], Loss: 0.2546, Precision@1: 0.9600, Precision@3: 0.6578
+Done!Waiting time : 82.98547612316906 secs
+Compute time : 9.84623954538256 secs
+Epoch time : 93.03069528425112 secs
+This is epoch4
+Epoch [5/5], Step [100/200], Loss: 0.2577, Precision@1: 0.9333, Precision@3: 0.6400Epoch [5/5], Step [200/200], Loss: 0.2786, Precision@1: 0.9133, Precision@3: 0.5933
+Done!Waiting time : 81.78443869343027 secs
+Compute time : 9.993851425126195 secs
+Epoch time : 91.95200441405177 secs

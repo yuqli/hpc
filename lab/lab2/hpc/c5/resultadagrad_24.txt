@@ -1,0 +1,33 @@
+Optimizer Adagrad (
+Parameter Group 0
+    initial_accumulator_value: 0
+    lr: 0.01
+    lr_decay: 0
+    weight_decay: 0
+)
+Number of workers 24
+This is epoch0
+Epoch [1/5], Step [100/200], Loss: 0.2509, Precision@1: 0.9200, Precision@3: 0.6289Epoch [1/5], Step [200/200], Loss: 0.2342, Precision@1: 0.9133, Precision@3: 0.6622
+Done!Waiting time : 88.05241507617757 secs
+Compute time : 8.774608036503196 secs
+Epoch time : 97.07027014996856 secs
+This is epoch1
+Epoch [2/5], Step [100/200], Loss: 0.2271, Precision@1: 0.9400, Precision@3: 0.6911Epoch [2/5], Step [200/200], Loss: 0.2196, Precision@1: 0.9200, Precision@3: 0.6578
+Done!Waiting time : 79.77888121223077 secs
+Compute time : 6.381796182133257 secs
+Epoch time : 86.35932099912316 secs
+This is epoch2
+Epoch [3/5], Step [100/200], Loss: 0.2265, Precision@1: 0.9467, Precision@3: 0.6756Epoch [3/5], Step [200/200], Loss: 0.1983, Precision@1: 0.9467, Precision@3: 0.6822
+Done!Waiting time : 79.03009791439399 secs
+Compute time : 6.126934384927154 secs
+Epoch time : 85.34038050705567 secs
+This is epoch3
+Epoch [4/5], Step [100/200], Loss: 0.2013, Precision@1: 0.9400, Precision@3: 0.6578Epoch [4/5], Step [200/200], Loss: 0.2103, Precision@1: 0.9733, Precision@3: 0.6778
+Done!Waiting time : 79.32647701492533 secs
+Compute time : 6.376980535220355 secs
+Epoch time : 85.88891757978126 secs
+This is epoch4
+Epoch [5/5], Step [100/200], Loss: 0.2005, Precision@1: 0.9067, Precision@3: 0.6689Epoch [5/5], Step [200/200], Loss: 0.2032, Precision@1: 0.9533, Precision@3: 0.6600
+Done!Waiting time : 79.62654241966084 secs
+Compute time : 5.739550664555281 secs
+Epoch time : 85.5241610519588 secs

@@ -1,0 +1,34 @@
+Optimizer SGD (
+Parameter Group 0
+    dampening: 0
+    lr: 0.01
+    momentum: 0.9
+    nesterov: True
+    weight_decay: 0
+)
+Number of workers 24
+This is epoch0
+Epoch [1/5], Step [100/200], Loss: 0.2509, Precision@1: 0.9467, Precision@3: 0.6356Epoch [1/5], Step [200/200], Loss: 0.2573, Precision@1: 0.9200, Precision@3: 0.6222
+Done!Waiting time : 88.35198194114491 secs
+Compute time : 8.547898096963763 secs
+Epoch time : 96.9203626839444 secs
+This is epoch1
+Epoch [2/5], Step [100/200], Loss: 0.2582, Precision@1: 0.9400, Precision@3: 0.6400Epoch [2/5], Step [200/200], Loss: 0.2605, Precision@1: 0.9333, Precision@3: 0.6556
+Done!Waiting time : 79.81756170932204 secs
+Compute time : 6.413121922407299 secs
+Epoch time : 86.41401068493724 secs
+This is epoch2
+Epoch [3/5], Step [100/200], Loss: 0.2415, Precision@1: 0.9200, Precision@3: 0.6467Epoch [3/5], Step [200/200], Loss: 0.2461, Precision@1: 0.9333, Precision@3: 0.6622
+Done!Waiting time : 79.10970769776031 secs
+Compute time : 6.1612453274428844 secs
+Epoch time : 85.42195551469922 secs
+This is epoch3
+Epoch [4/5], Step [100/200], Loss: 0.2637, Precision@1: 0.9200, Precision@3: 0.6489Epoch [4/5], Step [200/200], Loss: 0.2537, Precision@1: 0.9600, Precision@3: 0.6644
+Done!Waiting time : 79.09824246680364 secs
+Compute time : 6.692585774697363 secs
+Epoch time : 86.00144477700815 secs
+This is epoch4
+Epoch [5/5], Step [100/200], Loss: 0.2709, Precision@1: 0.8867, Precision@3: 0.6289Epoch [5/5], Step [200/200], Loss: 0.2624, Precision@1: 0.9267, Precision@3: 0.6200
+Done!Waiting time : 79.14111825684085 secs
+Compute time : 6.114503047429025 secs
+Epoch time : 85.43468031520024 secs

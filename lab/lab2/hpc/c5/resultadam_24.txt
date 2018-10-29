@@ -1,0 +1,34 @@
+Optimizer Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)
+Number of workers 24
+This is epoch0
+Epoch [1/5], Step [100/200], Loss: 0.2465, Precision@1: 0.9133, Precision@3: 0.6533Epoch [1/5], Step [200/200], Loss: 0.2270, Precision@1: 0.9133, Precision@3: 0.6444
+Done!Waiting time : 77.60625236993656 secs
+Compute time : 6.624455065932125 secs
+Epoch time : 84.40617366880178 secs
+This is epoch1
+Epoch [2/5], Step [100/200], Loss: 0.2230, Precision@1: 0.9533, Precision@3: 0.6622Epoch [2/5], Step [200/200], Loss: 0.2572, Precision@1: 0.9600, Precision@3: 0.6467
+Done!Waiting time : 79.15621689986438 secs
+Compute time : 6.21414983086288 secs
+Epoch time : 85.54418577905744 secs
+This is epoch2
+Epoch [3/5], Step [100/200], Loss: 0.2581, Precision@1: 0.9133, Precision@3: 0.6289Epoch [3/5], Step [200/200], Loss: 0.2409, Precision@1: 0.9267, Precision@3: 0.6444
+Done!Waiting time : 79.65681989304721 secs
+Compute time : 5.992396373767406 secs
+Epoch time : 85.83397906599566 secs
+This is epoch3
+Epoch [4/5], Step [100/200], Loss: 0.2212, Precision@1: 0.9267, Precision@3: 0.6178Epoch [4/5], Step [200/200], Loss: 0.2242, Precision@1: 0.9133, Precision@3: 0.6533
+Done!Waiting time : 78.73303944570944 secs
+Compute time : 6.156553380191326 secs
+Epoch time : 85.10909924702719 secs
+This is epoch4
+Epoch [5/5], Step [100/200], Loss: 0.2331, Precision@1: 0.9467, Precision@3: 0.6511Epoch [5/5], Step [200/200], Loss: 0.2402, Precision@1: 0.9600, Precision@3: 0.6800
+Done!Waiting time : 79.03618070064113 secs
+Compute time : 6.658114747609943 secs
+Epoch time : 85.8614594899118 secs

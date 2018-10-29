@@ -1,0 +1,3 @@
+usage: lab2.py [--help] [--device DEVICE] [--path PATH] [--workers WORKERS]
+               [--optimizer OPTIMIZER]
+Error: how many workers do you want to laod data for you?

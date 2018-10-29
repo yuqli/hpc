@@ -1,0 +1,7 @@
+This folder contains the following subdirectories:
+1. lab2.py: the source code for all problems
+2. c4: the bash script used to generate profiling files on Prince. To replicate results, run "source submit.sh" and "source submit1.sh"
+3. c5: this folder contains bash scripts used to run experiments for problem 5. "submit_all.sh" runs all the remaining submit files, so that experiments can be run in parallel. To replicate results, run "source submit_all.sh" on Prince.
+
+
+

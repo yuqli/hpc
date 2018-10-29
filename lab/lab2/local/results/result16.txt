@@ -1,0 +1,25 @@
+Number of workers 16
+This is epoch0
+Waiting time : 87.29225396970287 secs
+Compute time : 71.0953484843485 secs
+Epoch time : 158.39014262193814 secs
+Number of workers 16
+This is epoch1
+Waiting time : 97.09684382472187 secs
+Compute time : 69.41041457932442 secs
+Epoch time : 166.54953348403797 secs
+Number of workers 16
+This is epoch2
+Waiting time : 97.71101761329919 secs
+Compute time : 71.12606338458136 secs
+Epoch time : 168.85628614295274 secs
+Number of workers 16
+This is epoch3
+Waiting time : 99.2604484972544 secs
+Compute time : 70.05790488934144 secs
+Epoch time : 169.35556225292385 secs
+Number of workers 16
+This is epoch4
+Waiting time : 65.12115315487608 secs
+Compute time : 86.30250580888242 secs
+Epoch time : 151.4342846996151 secs

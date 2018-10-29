@@ -1,0 +1,20 @@
+This is epoch0
+Waiting time : 336.9140309970826 secs
+Compute time : 54.10260959342122 secs
+Epoch time : 391.02214116603136 secs
+This is epoch1
+Waiting time : 336.83822311321273 secs
+Compute time : 54.28430272685364 secs
+Epoch time : 391.12363370414823 secs
+This is epoch2
+Waiting time : 410.20431612664834 secs
+Compute time : 52.16937217442319 secs
+Epoch time : 462.37474297266454 secs
+This is epoch3
+Waiting time : 325.32706746831536 secs
+Compute time : 53.89947357773781 secs
+Epoch time : 379.22757972497493 secs
+This is epoch4
+Waiting time : 354.654990457464 secs
+Compute time : 53.163443291559815 secs
+Epoch time : 407.8195492569357 secs

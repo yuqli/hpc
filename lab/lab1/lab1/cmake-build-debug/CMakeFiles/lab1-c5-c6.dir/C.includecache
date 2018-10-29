@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yuqiongli/Desktop/HPC/lab/lab1/lab1-c5-c6.c
+stdio.h
+-
+time.h
+-
+math.h
+-
+mkl.h
+-
+
